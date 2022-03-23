@@ -1,7 +1,7 @@
 # Project Shopping Cart
 
 # Contexto
-Projeto de conclusão de bloco. 
+Projeto de conclusão de bloco e finalização do módulo de Fundamentos do Desenvolvimento Web. 
 Foi desenvolvido as habilidades de:
 
 - Fazer requisições a uma API *(Application Programming Interface)* do Mercado Livre;
